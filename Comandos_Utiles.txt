@@ -1,0 +1,6 @@
+git init: Para crear repositorio en local
+git add <Nombre o directorio> .
+git add .
+git commit -m "Cambios"
+git push origin main
+
