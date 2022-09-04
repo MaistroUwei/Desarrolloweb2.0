@@ -3,4 +3,7 @@ git add <Nombre o directorio> .
 git add .
 git commit -m "Cambios"
 git push origin main
+git log (Muestra cambios)
+git remote add nombre url
+git remote -v (Revisar la lista de origenes
 
