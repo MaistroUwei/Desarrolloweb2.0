@@ -1,9 +1,15 @@
 git init: Para crear repositorio en local
+-------------------------------
+git remote add nombre url
+-------------------------------
 git add <Nombre o directorio> .
 git add .
 git commit -m "Cambios"
 git push origin main
 git log (Muestra cambios)
-git remote add nombre url
 git remote -v (Revisar la lista de origenes
-
+--------------------------------
+Crear app de react
+	Dentro de carpeta vacía
+npx create-react-app .
+--------------------------------
